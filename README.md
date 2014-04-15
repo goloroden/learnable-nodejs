@@ -1,6 +1,6 @@
 # Node.js: An introduction for backend developers
 
-This repository contains the samples for my video training Node.js: An introduction for backend developers.
+This repository contains the samples for my video training [Node.js: An introduction for backend developers](https://learnable.com/courses/node-js-an-introduction-2866).
 
 ## Quick start
 
